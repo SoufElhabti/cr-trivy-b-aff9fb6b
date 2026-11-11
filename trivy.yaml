@@ -1,0 +1,5 @@
+rego:
+  check:
+    - policies
+  namespaces:
+    - user
